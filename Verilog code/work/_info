@@ -1,0 +1,515 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim
+vAdder
+!s110 1736841597
+!i10b 1
+!s100 7lT8oMgj;hVEFYGXlGM1W2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOF:SG6a4c3G:aJFN2hB:R1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code
+Z3 w1736832988
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/adder.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/adder.v
+!i122 22
+Z4 L0 1 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1736841597.000000
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder
+vALU
+Z9 !s110 1736841598
+!i10b 1
+!s100 LMV[:DJGPE1Y_f[Lcdm9c2
+R0
+I?:0LIMn[fF:L0@dP4:AbS1
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU.v
+!i122 23
+L0 8 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vALU_Controller
+R9
+!i10b 1
+!s100 LQWO^zlY9C4j<Rl>HzfcM1
+R0
+I3dQ>GX?2h`QkkUV]VNW:L3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU_Controller.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU_Controller.v
+!i122 24
+L0 14 21
+R5
+r1
+!s85 0
+31
+Z10 !s108 1736841598.000000
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU_Controller.v|
+!i113 1
+R7
+R8
+n@a@l@u_@controller
+vBranchController
+R9
+!i10b 1
+!s100 1>1fI6NhJ0Kal;o>L]38m3
+R0
+IjTTL>246[3o4RMQj>iaFn1
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Branch_Controller.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Branch_Controller.v
+!i122 25
+L0 8 13
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Branch_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Branch_Controller.v|
+!i113 1
+R7
+R8
+n@branch@controller
+vDataMemory
+R9
+!i10b 1
+!s100 5BfYgTKjD@_Hf<zUeo];H3
+R0
+IB7JA=KBBPm7H4j6XCJZTH0
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/DataMemory.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/DataMemory.v
+!i122 26
+L0 1 19
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/DataMemory.v|
+!i113 1
+R7
+R8
+n@data@memory
+vHazardUnit
+R9
+!i10b 1
+!s100 O_5cFXIi5cKI[V<4mIYjJ3
+R0
+IECY6a34o9@YB=U4cYD77F1
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Hazard_Unit.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Hazard_Unit.v
+!i122 27
+L0 1 38
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Hazard_Unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Hazard_Unit.v|
+!i113 1
+R7
+R8
+n@hazard@unit
+vImmExtension
+R9
+!i10b 1
+!s100 kLGB]?L]VGEeSKC^]4Rj>3
+R0
+Il>>g9_?DVga9Ji]7]RA]`3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ImmExt.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ImmExt.v
+!i122 28
+L0 7 14
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ImmExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ImmExt.v|
+!i113 1
+R7
+R8
+n@imm@extension
+vInstructionMemory
+!s110 1736842086
+!i10b 1
+!s100 ;bG:C1Eh8@R71P>Zl:VRH0
+R0
+I:m639^>j^W4F8R0[YUTC?2
+R1
+R2
+w1736842063
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/InstructionMemory.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/InstructionMemory.v
+!i122 43
+Z11 L0 1 13
+R5
+r1
+!s85 0
+31
+!s108 1736842086.000000
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/InstructionMemory.v|
+!i113 1
+R7
+R8
+n@instruction@memory
+vMainController
+R9
+!i10b 1
+!s100 NWGkL=bi>YS;TC2Xa^N==2
+R0
+IndbRKd_TUHJEiJh;?lm0<3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Main_Controller.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Main_Controller.v
+!i122 30
+L0 13 80
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Main_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Main_Controller.v|
+!i113 1
+R7
+R8
+n@main@controller
+vMux2to1
+R9
+!i10b 1
+!s100 =;0;G2o;;@9daN8LYVT3l2
+R0
+I9[Il4aD7<Fmc2SB3b]6Uz3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux2to1.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux2to1.v
+!i122 31
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux2to1.v|
+!i113 1
+R7
+R8
+n@mux2to1
+vMux4to1
+R9
+!i10b 1
+!s100 JB_VDBJz9njFjVa;`aN6O1
+R0
+IQ1j[=b^C];9ZOhAc_GGgS0
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux4to1.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux4to1.v
+!i122 32
+R11
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux4to1.v|
+!i113 1
+R7
+R8
+n@mux4to1
+vRegD_E
+R9
+!i10b 1
+!s100 3=Q]z]j2Vz6]8<0R32W521
+R0
+I<=WSHb:z?dVOkJXVb81aH1
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegD_E.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegD_E.v
+!i122 33
+L0 1 53
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegD_E.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegD_E.v|
+!i113 1
+R7
+R8
+n@reg@d_@e
+vRegE_M
+R9
+!i10b 1
+!s100 =f8MnZVYzc]Wb`LU;28Wo0
+R0
+I@`38Y<UhVWWl>ESh0g[@N3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegE_M.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegE_M.v
+!i122 34
+L0 1 36
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegE_M.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegE_M.v|
+!i113 1
+R7
+R8
+n@reg@e_@m
+vRegF_D
+R9
+!i10b 1
+!s100 jF1H6@Fa3:^3B>?Fg?ej30
+R0
+I=IhLZLOihmOBNhbo`=11:3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegF_D.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegF_D.v
+!i122 35
+L0 1 20
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegF_D.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegF_D.v|
+!i113 1
+R7
+R8
+n@reg@f_@d
+vRegister
+R9
+!i10b 1
+!s100 [k0<j=>mSHf9>?j`3bZQn0
+R0
+Iz8@C4Y3E@2j>M1EZ[>NIH3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Register.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Register.v
+!i122 36
+L0 1 10
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegisterFile
+R9
+!i10b 1
+!s100 B1;MnciYZM<QgG95MHha40
+R0
+I5[59z@BkzgVEe3`D7mG6f0
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegisterFile.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegisterFile.v
+!i122 37
+L0 3 29
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegisterFile.v|
+!i113 1
+R7
+R8
+n@register@file
+vRegM_W
+R9
+!i10b 1
+!s100 EBi;ZafNo>1VReEm1:[jX3
+R0
+I0G9N7:X]ME4XDIg4E6R?10
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegM_W.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegM_W.v
+!i122 38
+L0 1 31
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegM_W.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegM_W.v|
+!i113 1
+R7
+R8
+n@reg@m_@w
+vRISC_V
+Z12 !s110 1736841599
+!i10b 1
+!s100 5jiMKiY2@TF;WS7__K62B2
+R0
+IU9`b<=MHkYo7AD51F>G@U2
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V.v
+!i122 39
+L0 1 27
+R5
+r1
+!s85 0
+31
+Z13 !s108 1736841599.000000
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V.v|
+!i113 1
+R7
+R8
+n@r@i@s@c_@v
+vRISC_V_Controller
+R12
+!i10b 1
+!s100 AdU3O;4Vlb:Icanh?BLQ80
+R0
+IAkIKn^IX9<E1F9<`En99L1
+R1
+R2
+w1736841595
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Controller.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Controller.v
+!i122 40
+L0 1 22
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Controller.v|
+!i113 1
+R7
+R8
+n@r@i@s@c_@v_@controller
+vRISC_V_Datapath
+R12
+!i10b 1
+!s100 LBgozELVoJjZzR?]58CB;3
+R0
+I5jJ]0XJ`ZNY:UX6O<`cnh3
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Datapath.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Datapath.v
+!i122 41
+L0 1 162
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Datapath.v|
+!i113 1
+R7
+R8
+n@r@i@s@c_@v_@datapath
+vTB
+R12
+!i10b 1
+!s100 IN8emM3D6d<d0O^2o0mgR3
+R0
+IF=Wc]GbTEMKidIb9jh8I00
+R1
+R2
+R3
+8C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/TB.v
+FC:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/TB.v
+!i122 42
+R11
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/TB.v|
+!i113 1
+R7
+R8
+n@t@b

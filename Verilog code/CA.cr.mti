@@ -1,0 +1,148 @@
+{C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/InstructionMemory.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/InstructionMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/DataMemory.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/DataMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Datapath.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_Datapath
+
+Top level modules:
+	RISC_V_Datapath
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ImmExt.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ImmExt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ImmExtension
+
+Top level modules:
+	ImmExtension
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU_Controller.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Controller
+
+Top level modules:
+	ALU_Controller
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/TB.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V
+
+Top level modules:
+	RISC_V
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegD_E.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegD_E.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegD_E
+
+Top level modules:
+	RegD_E
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegF_D.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegF_D.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegF_D
+
+Top level modules:
+	RegF_D
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Main_Controller.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Main_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MainController
+
+Top level modules:
+	MainController
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux2to1.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Branch_Controller.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Branch_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BranchController
+
+Top level modules:
+	BranchController
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux4to1.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Register.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegisterFile.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegE_M.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegE_M.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegE_M
+
+Top level modules:
+	RegE_M
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/adder.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Hazard_Unit.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/Hazard_Unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HazardUnit
+
+Top level modules:
+	HazardUnit
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegM_W.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RegM_W.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegM_W
+
+Top level modules:
+	RegM_W
+
+} {} {}} {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Controller.v} {1 {vlog -work work -stats=none {C:/Users/Ausu/Desktop/DS2-CA4-810101380-810101383/DS2-CA4-810101380-810101383/Verilog code/RISC_V_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RISC_V_Controller
+
+Top level modules:
+	RISC_V_Controller
+
+} {} {}}
